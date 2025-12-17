@@ -39,3 +39,13 @@ Optional: create `frontend/.env` with `VITE_API_BASE_URL=http://localhost:4000` 
 ## Notes
 - Mapping state is in-memory only (no persistence).
 - Styling is minimal; focus is on prefill workflow, not DAG rendering.
+
+##Screen
+<img width="1110" height="796" alt="image" src="https://github.com/user-attachments/assets/009e729f-24e8-4162-a6ab-35a71dab704a" />
+
+
+<img width="1103" height="793" alt="image" src="https://github.com/user-attachments/assets/e98748ac-1c56-4c87-95e9-34d1925f7917" />
+
+
+<img width="1174" height="833" alt="image" src="https://github.com/user-attachments/assets/e061f609-31e2-444c-b235-d8dd6c22feb6" />
+
