@@ -1,0 +1,12 @@
+{
+  "name": "mock-backend",
+  "version": "1.0.0",
+  "description": "Lightweight mock server for Journey Builder challenge",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
